@@ -9,6 +9,7 @@ public class SumCalculator {
             for (int i = 1; i <= n; i++) {
                 sum += i;
             }
+            System.out.println("Test");
             return sum;
         }
     }
